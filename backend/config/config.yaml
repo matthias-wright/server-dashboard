@@ -1,0 +1,8 @@
+credentials:
+    username: username
+    path_to_ssh_key: /home/user/.ssh/id_rsa
+settings:
+    path_to_server_config: config/servers.yaml
+    process_timeout: 10
+    port: 5000
+    
